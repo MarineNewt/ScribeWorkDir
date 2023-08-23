@@ -8,85 +8,35 @@ export default function Home() {
         <title>Create Next App</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-
-      <main>
-        <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
-        </h1>
-
-        <p className={styles.description}>
-          Get started by editing <code>pages/index.js</code>
-        </p>
-
         <div className={styles.grid}>
-          <a href="https://nextjs.org/docs" className={styles.card}>
-            <h3>Documentation &rarr;</h3>
-            <p>Find in-depth information about Next.js features and API.</p>
-          </a>
-
-          <a href="https://nextjs.org/learn" className={styles.card}>
-            <h3>Learn &rarr;</h3>
-            <p>Learn about Next.js in an interactive course with quizzes!</p>
-          </a>
-
-          <a
-            href="https://github.com/vercel/next.js/tree/master/examples"
-            className={styles.card}
-          >
-            <h3>Examples &rarr;</h3>
-            <p>Discover and deploy boilerplate example Next.js projects.</p>
-          </a>
-
-          <a
-            href="https://vercel.com/import?filter=next.js&utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-            className={styles.card}
-          >
-            <h3>Deploy &rarr;</h3>
-            <p>
-              Instantly deploy your Next.js site to a public URL with Vercel.
-            </p>
-          </a>
+          <div className={styles.div1}>         
+            <h1 className={styles.title}>TSC pages</h1> </div>
+          <div className={styles.div2}> 2 </div>
+          <div className={styles.div3}> 3 </div>
+          <div className={styles.div4}>
+            <h2 className={styles.SecHeader}>Quick Links</h2>
+            <p>paycom webmail</p>
+          </div>
+          <div className={styles.div5}> 
+            <h2 className={styles.SecHeader}>Quick Emails</h2> 
+          </div>
+          <div className={styles.div6}>
+            <h2 className={styles.SecHeader}>Surgery Forms</h2> 
+            •<a className={styles.SecLink} href="/allfiles/Resume.pdf" alt="alt text" target="_blank" rel="noopener noreferrer"> Surgery PO instructions </a><br></br>
+            •<a className={styles.SecLink} href="/allfiles/Resume.pdf" alt="alt text" target="_blank" rel="noopener noreferrer"> Surgery Preparation Instructions </a>
+          </div>
+          <div className={styles.div7}>
+            <h2 className={styles.SecHeader}>Procedure Forms</h2> 
+          </div>
+          <div className={styles.div8}>
+            <h2 className={styles.SecHeader}>Laser Forms</h2> 
+          </div>
+          <div className={styles.div9}>
+            <h2 className={styles.SecHeader}>Misc Forms</h2> 
+          </div>
         </div>
-      </main>
-
-      <footer>
-        <a
-          href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Powered by{' '}
-          <img src="/vercel.svg" alt="Vercel" className={styles.logo} />
-        </a>
-      </footer>
 
       <style jsx>{`
-        main {
-          padding: 5rem 0;
-          flex: 1;
-          display: flex;
-          flex-direction: column;
-          justify-content: center;
-          align-items: center;
-        }
-        footer {
-          width: 100%;
-          height: 100px;
-          border-top: 1px solid #eaeaea;
-          display: flex;
-          justify-content: center;
-          align-items: center;
-        }
-        footer img {
-          margin-left: 0.5rem;
-        }
-        footer a {
-          display: flex;
-          justify-content: center;
-          align-items: center;
-          text-decoration: none;
-          color: inherit;
-        }
         code {
           background: #fafafa;
           border-radius: 5px;
