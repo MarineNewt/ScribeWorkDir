@@ -12,7 +12,7 @@ export default function Home() {
       </Head>
         <div className={styles.grid}>
           <div className={styles.div1}>         
-            <h1 className={styles.title}>TSC pages</h1> </div>
+            <h1 className={styles.title}>TSC Pages</h1> </div>
           <div className={styles.div2}> 
             <div className={styles.clocks}>
               <div >◉ <Clock className={styles.clock1} format={'MMMM Do'} ticking={false} timezone={"US/Pacific"} ></Clock> ◉</div>
@@ -30,23 +30,23 @@ export default function Home() {
           </div>
           <div className={styles.div6}>
             <h2 className={styles.SecHeader}>Surgery Forms</h2> 
-            •<a className={styles.SecLink} href="/allfiles/Resume.pdf" alt="alt text" target="_blank" rel="noopener noreferrer"> Surgery PO instructions </a><br></br>
-            •<a className={styles.SecLink} href="/allfiles/Resume.pdf" alt="alt text" target="_blank" rel="noopener noreferrer"> Surgery Preparation Instructions </a><br></br>
-            •<a className={styles.SecLink} href="/allfiles/Resume.pdf" alt="alt text" target="_blank" rel="noopener noreferrer"> Surgery PO instructions </a><br></br>
-            •<a className={styles.SecLink} href="/allfiles/Resume.pdf" alt="alt text" target="_blank" rel="noopener noreferrer"> Surgery PO instructions </a><br></br>
-            •<a className={styles.SecLink} href="/allfiles/Resume.pdf" alt="alt text" target="_blank" rel="noopener noreferrer"> Surgery PO instructions </a><br></br>
-            •<a className={styles.SecLink} href="/allfiles/Resume.pdf" alt="alt text" target="_blank" rel="noopener noreferrer"> Surgery PO instructions </a><br></br>
-            •<a className={styles.SecLink} href="/allfiles/Resume.pdf" alt="alt text" target="_blank" rel="noopener noreferrer"> Surgery PO instructions </a><br></br>
+            •<a className={styles.SecLink} href="/allfiles/surg forms.pdf" alt="alt text" target="_blank" rel="noopener noreferrer"> Surgery forms (all)</a><br></br>
+            •<a className={styles.SecLink} href="/allfiles/Brow PO.docx" alt="alt text" target="_blank" rel="noopener noreferrer"> Brow PO </a><br></br>
 
           </div>
           <div className={styles.div7}>
             <h2 className={styles.SecHeader}>Procedure Forms</h2> 
+            •<a className={styles.SecLink} href="/allfiles/TSC Procedure Instructions.docx" alt="alt text" target="_blank" rel="noopener noreferrer"> Procedure forms (all)</a><br></br>
+            •<a className={styles.SecLink} href="/allfiles/Procedure Instructions.pdf" alt="alt text" target="_blank" rel="noopener noreferrer">  Filler after care </a><br></br>
           </div>
           <div className={styles.div8}>
             <h2 className={styles.SecHeader}>Laser Forms</h2> 
+            •<a className={styles.SecLink} href="/allfiles/Instruction CO2 eyelid.docx" alt="alt text" target="_blank" rel="noopener noreferrer"> CO2 Eyelids </a><br></br>
           </div>
           <div className={styles.div9}>
             <h2 className={styles.SecHeader}>Misc Forms</h2> 
+            •<a className={styles.SecLink} href="/allfiles/HHQ.docx" alt="alt text" target="_blank" rel="noopener noreferrer"> Health History Questionaire</a><br></br>
+            •<a className={styles.SecLink} href="/allfiles/TSC Physician Order Form.docx" alt="alt text" target="_blank" rel="noopener noreferrer"> Physician Orders </a><br></br>
           </div>
         </div>
 
