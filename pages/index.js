@@ -31,7 +31,7 @@ export default function Home() {
           <div className={styles.div6}>
             <h2 className={styles.SecHeader}>Surgery Forms</h2> 
             •<a className={styles.SecLink} href="/allfiles/surg forms.pdf" alt="alt text" target="_blank" rel="noopener noreferrer"> Surgery forms (all)</a><br></br>
-            •<a className={styles.SecLink} href="/allfiles/Brow PO.docx" alt="alt text" target="_blank" rel="noopener noreferrer"> Brow PO </a><br></br>
+            •<a className={styles.SecLink} href="/allfiles/Brow PO.pdf" alt="alt text" target="_blank" rel="noopener noreferrer"> Brow PO </a><br></br>
 
           </div>
           <div className={styles.div7}>
@@ -41,12 +41,12 @@ export default function Home() {
           </div>
           <div className={styles.div8}>
             <h2 className={styles.SecHeader}>Laser Forms</h2> 
-            •<a className={styles.SecLink} href="/allfiles/Instruction CO2 eyelid.docx" alt="alt text" target="_blank" rel="noopener noreferrer"> CO2 Eyelids </a><br></br>
+            •<a className={styles.SecLink} href="/allfiles/Instruction CO2 eyelid.pdf" alt="alt text" target="_blank" rel="noopener noreferrer"> CO2 Eyelids </a><br></br>
           </div>
           <div className={styles.div9}>
             <h2 className={styles.SecHeader}>Misc Forms</h2> 
-            •<a className={styles.SecLink} href="/allfiles/HHQ.docx" alt="alt text" target="_blank" rel="noopener noreferrer"> Health History Questionaire</a><br></br>
-            •<a className={styles.SecLink} href="/allfiles/TSC Physician Order Form.docx" alt="alt text" target="_blank" rel="noopener noreferrer"> Physician Orders </a><br></br>
+            •<a className={styles.SecLink} href="/allfiles/HHQ.pdf" alt="alt text" target="_blank" rel="noopener noreferrer"> Health History Questionaire</a><br></br>
+            •<a className={styles.SecLink} href="/allfiles/TSC Physician Order Form.pdf" alt="alt text" target="_blank" rel="noopener noreferrer"> Physician Orders </a><br></br>
           </div>
         </div>
 
