@@ -26,11 +26,14 @@ export default function Home() {
             ➢ <a className={styles.SecLink} href="https://www.paycomonline.net/v4/ee/web.php/app/login" alt="alt text" target="_blank" rel="noopener noreferrer">Paycom Login </a><br></br>
           </div>
           <div className={styles.div5}> 
-            <h2 className={styles.SecHeader}>Team Emails</h2> 
+            <h2 className={styles.SecHeader}>Team</h2> 
           </div>
           <div className={styles.div6}>
             <h2 className={styles.SecHeader}>Surgery Forms</h2> 
             •<a className={styles.SecLink} href="/allfiles/surg forms.pdf" alt="alt text" target="_blank" rel="noopener noreferrer"> Surgery forms (all)</a><br></br>
+            •<a className={styles.SecLink} href="/allfiles/Presxcenterinstructions.pdf" alt="alt text" target="_blank" rel="noopener noreferrer"> Surgery Center Prep</a><br></br>
+            •<a className={styles.SecLink} href="/allfiles/1-2weeksbfsurgery.pdf" alt="alt text" target="_blank" rel="noopener noreferrer"> 1-2 week Prep</a><br></br>
+            •<a className={styles.SecLink} href="/allfiles/sxdischargeinstructions.pdf" alt="alt text" target="_blank" rel="noopener noreferrer"> PO Instructions</a><br></br>
             •<a className={styles.SecLink} href="/allfiles/Brow PO.pdf" alt="alt text" target="_blank" rel="noopener noreferrer"> Brow PO </a><br></br>
 
           </div>
