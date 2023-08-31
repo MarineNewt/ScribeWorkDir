@@ -45,6 +45,7 @@ export default function Home() {
           <div className={styles.div8}>
             <h2 className={styles.SecHeader}>Laser Forms</h2> 
             •<a className={styles.SecLink} href="/allfiles/Instruction CO2 eyelid.pdf" alt="alt text" target="_blank" rel="noopener noreferrer"> CO2 Eyelids </a><br></br>
+            •<a className={styles.SecLink} href="/allfiles/CO2resurfFace.pdf" alt="alt text" target="_blank" rel="noopener noreferrer"> CO2 Face </a><br></br>
           </div>
           <div className={styles.div9}>
             <h2 className={styles.SecHeader}>Misc Forms</h2> 
