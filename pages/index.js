@@ -1,9 +1,14 @@
 import Head from 'next/head';
+import Script from 'next/script'
 import styles from '../styles/Home.module.css';
 import react from 'react';
 import Clock from 'react-live-clock';
+import Weather from './../components/weather.js'
+import { useEffect } from "react";
+
 
 export default function Home() {
+
   return (
     <div className={styles.container}>
       <Head>
@@ -19,14 +24,14 @@ export default function Home() {
               <div ><Clock className={styles.clock2} format={'h:mma'} ticking={true} timezone={"US/Pacific"} ></Clock></div>
             </div>
           </div>
-          <div className={styles.div3}> 3 </div>
+          <div className={styles.div3}><div ><Weather></Weather></div></div>
           <div className={styles.div4}>
             <h2 className={styles.SecHeader}>Quick Links</h2>
             ➢ <a className={styles.SecLink} href="https://login.live.com/" alt="alt text" target="_blank" rel="noopener noreferrer">Outlook Email </a><br></br>
             ➢ <a className={styles.SecLink} href="https://www.paycomonline.net/v4/ee/web.php/app/login" alt="alt text" target="_blank" rel="noopener noreferrer">Paycom Login </a><br></br>
           </div>
           <div className={styles.div5}> 
-            <h2 className={styles.SecHeader}>Team</h2> 
+            <h2 className={styles.SecHeader}>Info Resources</h2> 
           </div>
           <div className={styles.div6}>
             <h2 className={styles.SecHeader}>Surgery Forms</h2> 

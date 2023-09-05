@@ -26,13 +26,13 @@
   
 .div1 { grid-area: 2 / 2 / 3 / 4; }
 .div2 { grid-area: 1 / 1 / 2 / 3; text-align: center;}
-.div3 { grid-area: 1 / 3 / 2 / 5; text-align: center;}
+.div3 { grid-area: 1 / 3 / 2 / 5; text-align: center; padding-top: 7vh; padding-right: 5vw;}
 .div4 { grid-area: 2 / 1 / 3 / 2; text-align: center;}
 .div5 { grid-area: 2 / 4 / 3 / 5; text-align: center;}
-.div6 { grid-area: 3 / 1 / 4 / 2; text-align: left; padding-left: 1.5vw;}
-.div7 { grid-area: 3 / 2 / 4 / 3; text-align: left; padding-left: 1.5vw;}
-.div8 { grid-area: 3 / 3 / 4 / 4; text-align: left; padding-left: 1.5vw;}
-.div9 { grid-area: 3 / 4 / 4 / 5; text-align: left; padding-left: 1.5vw;}
+.div6 { grid-area: 3 / 1 / 4 / 2; text-align: left; padding-left: 1.5vw; padding-bottom: 4vh;}
+.div7 { grid-area: 3 / 2 / 4 / 3; text-align: left; padding-left: 1.5vw; padding-bottom: 4vh;}
+.div8 { grid-area: 3 / 3 / 4 / 4; text-align: left; padding-left: 1.5vw; padding-bottom: 4vh;}
+.div9 { grid-area: 3 / 4 / 4 / 5; text-align: left; padding-left: 1.5vw; padding-bottom: 4vh;}
 
 .SecHeader{
   text-align: center;
@@ -66,6 +66,11 @@
 .clock2{
   font-size: 2.5rem; 
   color: black;
+}
+
+.weathercomp{
+  border: 2px solid black;
+
 }
 
 
