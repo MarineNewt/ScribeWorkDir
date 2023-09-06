@@ -29,6 +29,7 @@ export default function Home() {
             <h2 className={styles.SecHeader}>Quick Links</h2>
             ➢ <a className={styles.SecLink} href="https://login.live.com/" alt="alt text" target="_blank" rel="noopener noreferrer">Outlook Email </a><br></br>
             ➢ <a className={styles.SecLink} href="https://www.paycomonline.net/v4/ee/web.php/app/login" alt="alt text" target="_blank" rel="noopener noreferrer">Paycom Login </a><br></br>
+            ➢ <a className={styles.SecLink} href="https://podisplus.com/security/login.aspx?ReturnUrl=%2fAdmin%2fDashboard.aspx" alt="alt text" target="_blank" rel="noopener noreferrer">Podis Login </a><br></br>
           </div>
           <div className={styles.div5}> 
             <h2 className={styles.SecHeader}>Info Resources</h2> 
