@@ -1,5 +1,5 @@
 .container {
-  font-size: clamp(1px, 1.5vw, 1000px);
+  font-size: clamp(1px, 1.3vw, 1000px);
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -10,7 +10,7 @@
 .title {
   margin:0;
   line-height: 1.15;
-  font-size: 5vw;
+  font-size: 4vw;
   text-align: center;
   color:rgb(75, 17, 222)
 }
@@ -27,7 +27,7 @@
   
 .div1 { grid-area: 2 / 2 / 3 / 4; }
 .div2 { grid-area: 1 / 1 / 2 / 3; text-align: center;}
-.div3 { grid-area: 1 / 3 / 2 / 5; text-align: center; padding-top: 7vh; padding-right: 5vw;}
+.div3 { grid-area: 1 / 3 / 2 / 5; text-align: center; padding-top: 30px; padding-right: 30px;}
 .div4 { grid-area: 2 / 1 / 3 / 2; text-align: center;}
 .div5 { grid-area: 2 / 4 / 3 / 5; text-align: center;}
 .div6 { grid-area: 3 / 1 / 4 / 2; text-align: left; padding-left: 1.5vw; padding-bottom: 4vh;}
@@ -52,7 +52,7 @@
   flex-direction: column;
   margin-top: 5vh;
   padding: 2%;
-  font-size: 3.5vw; 
+  font-size: 3.25vw; 
   font-family: Optima, sans-serif;
   border: solid black 2px;
   width:fit-content;
@@ -60,12 +60,12 @@
   border-radius: 10px;
 }
 .clock1{
-  font-size: 3.5vw; 
+  font-size: 3.25vw; 
   margin-bottom: 2vh;
   color:rgb(75, 17, 222);
 }
 .clock2{
-  font-size: 3.5vw; 
+  font-size: 3.25vw; 
   color: black;
 }
 
