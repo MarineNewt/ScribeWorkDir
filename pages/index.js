@@ -14,6 +14,7 @@ export default function Home() {
       <Head>
         <title>TSC Pages</title>
         <link rel="icon" href="/favicon.ico" />
+        <meta http-equiv="refresh" content="1800"></meta>
       </Head>
         <div className={styles.grid}>
           <div className={styles.div1}>         
