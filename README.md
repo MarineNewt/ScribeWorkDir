@@ -3,7 +3,7 @@
     Live directory viewable at <a href="https://work-directory.vercel.app/">work-directory.vercel.app</a>.
  </h3>
 
- <img width="959" alt="image" src="https://github.com/MarineNewt/ScribeWorkDir/assets/38538941/e0aff17a-653a-4e27-9b97-7b4f4be87e8e">
+<img width="959" alt="Work-directory" src="https://github.com/MarineNewt/ScribeWorkDir/assets/38538941/a5b8dcfb-059c-47d0-ae3d-066d360ac877">
 
  
  ## Setup And Deployment 🔧
