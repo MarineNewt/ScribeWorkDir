@@ -35,6 +35,7 @@ export default function Home() {
           <div className={styles.div5}> 
             <h2 className={styles.SecHeader}>Info Resources</h2> 
             ➢ <a className={styles.SecLink} href="/allfiles/Procedure Trays.rtf" alt="alt text" target="_blank" rel="noopener noreferrer">Tray Set-up </a><br></br>
+            ➢ <a className={styles.SecLink} href="/allfiles/TSC Common Surgeries.docx" alt="alt text" target="_blank" rel="noopener noreferrer">Common Surgeries </a><br></br>
           </div>
           <div className={styles.div6}>
             <h2 className={styles.SecHeader}>Surgery Forms</h2> 
