@@ -65,6 +65,7 @@ export default function Home() {
             •<a className={styles.SecLink} href="/allfiles/Tangent VF testform.pdf" alt="alt text" target="_blank" rel="noopener noreferrer"> Tangent VF Form </a><br></br>
             •<a className={styles.SecLink} href="/allfiles/HHQ.pdf" alt="alt text" target="_blank" rel="noopener noreferrer"> Health History Questionaire</a><br></br>
             •<a className={styles.SecLink} href="/allfiles/fax coversheet.pdf" alt="alt text" target="_blank" rel="noopener noreferrer"> Fax Coversheet</a><br></br>
+            •<a className={styles.SecLink} href="/allfiles/CSF Policy.pdf" alt="alt text" target="_blank" rel="noopener noreferrer"> Cosmetic Financial Policy</a><br></br>
             •<a className={styles.SecLink} href="/allfiles/TSC Physician Order Form.pdf" alt="alt text" target="_blank" rel="noopener noreferrer"> Physician Orders </a><br></br>
           </div>
         </div>
