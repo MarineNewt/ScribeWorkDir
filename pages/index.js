@@ -49,9 +49,10 @@ export default function Home() {
           </div>
           <div className={styles.div7}>
             <h2 className={styles.SecHeader}>Procedure Forms</h2> 
-            •<a className={styles.SecLink} href="/allfiles/TSC Procedure Instructions.pdf" alt="alt text" target="_blank" rel="noopener noreferrer"> Procedure forms (all)</a><br></br>
+            •<a className={styles.SecLink} href="/allfiles/TSC Procedures Instructions.pdf" alt="alt text" target="_blank" rel="noopener noreferrer"> Procedure forms (all)</a><br></br>
             •<a className={styles.SecLink} href="/allfiles/PIChalazionPO.pdf" alt="alt text" target="_blank" rel="noopener noreferrer"> Chalazion PO </a><br></br>
             •<a className={styles.SecLink} href="/allfiles/PILesionPO.pdf" alt="alt text" target="_blank" rel="noopener noreferrer"> Lesion PO </a><br></br>
+            •<a className={styles.SecLink} href="/allfiles/Punctoplasty PO.pdf" alt="alt text" target="_blank" rel="noopener noreferrer"> Punctoplasty PO </a><br></br>
             •<a className={styles.SecLink} href="/allfiles/PILipiflowPO.pdf" alt="alt text" target="_blank" rel="noopener noreferrer"> Lipiflow PO </a><br></br>
             •<a className={styles.SecLink} href="/allfiles/Procedure Instructions.pdf" alt="alt text" target="_blank" rel="noopener noreferrer">  Filler after care </a><br></br>
           </div>
