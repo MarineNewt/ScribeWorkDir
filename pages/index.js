@@ -40,11 +40,12 @@ export default function Home() {
           <div className={styles.div6}>
             <h2 className={styles.SecHeader}>Surgery Forms</h2> 
             •<a className={styles.SecLink} href="/allfiles/surg forms.pdf" alt="alt text" target="_blank" rel="noopener noreferrer"> Surgery forms (all)</a><br></br>
-            •<a className={styles.SecLink} href="/allfiles/1WkPO.pdf" alt="alt text" target="_blank" rel="noopener noreferrer"> 1 Week Instructions</a><br></br>
-            •<a className={styles.SecLink} href="/allfiles/Presxcenterinstructions.pdf" alt="alt text" target="_blank" rel="noopener noreferrer"> Surgery Center Prep</a><br></br>
-            •<a className={styles.SecLink} href="/allfiles/1-2weeksbfsurgery.pdf" alt="alt text" target="_blank" rel="noopener noreferrer"> 1-2 week Prep</a><br></br>
-            •<a className={styles.SecLink} href="/allfiles/sxdischargeinstructions.pdf" alt="alt text" target="_blank" rel="noopener noreferrer"> PO Instructions</a><br></br>
-            •<a className={styles.SecLink} href="/allfiles/Brow PO.pdf" alt="alt text" target="_blank" rel="noopener noreferrer"> Brow PO </a><br></br>
+            •<a className={styles.SecLink} href="/allfiles/1-2weeksbfsurgery.pdf" alt="alt text" target="_blank" rel="noopener noreferrer"> Prep- 1-2 weeks</a><br></br>
+            •<a className={styles.SecLink} href="/allfiles/Presxcenterinstructions.pdf" alt="alt text" target="_blank" rel="noopener noreferrer"> Prep- Surgery Center</a><br></br>
+            •<a className={styles.SecLink} href="/allfiles/anes_preopinfo.pdf" alt="alt text" target="_blank" rel="noopener noreferrer"> Prep- Anesthesia Billing</a><br></br>
+            •<a className={styles.SecLink} href="/allfiles/sxdischargeinstructions.pdf" alt="alt text" target="_blank" rel="noopener noreferrer"> PO Eyelid Sx</a><br></br>
+            •<a className={styles.SecLink} href="/allfiles/Brow PO.pdf" alt="alt text" target="_blank" rel="noopener noreferrer"> PO Brow Sx </a><br></br>
+            •<a className={styles.SecLink} href="/allfiles/1WkPO.pdf" alt="alt text" target="_blank" rel="noopener noreferrer"> 1 Week Follow up</a><br></br>
 
           </div>
           <div className={styles.div7}>
