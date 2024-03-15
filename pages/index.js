@@ -45,6 +45,7 @@ export default function Home() {
             •<a className={styles.SecLink} href="/allfiles/anes_preopinfo.pdf" alt="alt text" target="_blank" rel="noopener noreferrer"> Prep- Anesthesia Billing</a><br></br>
             •<a className={styles.SecLink} href="/allfiles/sxdischargeinstructions.pdf" alt="alt text" target="_blank" rel="noopener noreferrer"> PO Eyelid Sx</a><br></br>
             •<a className={styles.SecLink} href="/allfiles/Brow PO.pdf" alt="alt text" target="_blank" rel="noopener noreferrer"> PO Brow Sx </a><br></br>
+            •<a className={styles.SecLink} href="/allfiles/DCR PO.docx" alt="alt text" target="_blank" rel="noopener noreferrer"> PO DCR Sx </a><br></br>
             •<a className={styles.SecLink} href="/allfiles/1WkPO.pdf" alt="alt text" target="_blank" rel="noopener noreferrer"> 1 Week Follow up</a><br></br>
 
           </div>
