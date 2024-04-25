@@ -44,7 +44,7 @@ export default function Home() {
             •<a className={styles.SecLink} href="/allfiles/Instruction for day of surgery, prior to your arrival.pdf" alt="alt text" target="_blank" rel="noopener noreferrer"> Prep- Surgery Center</a><br></br>
             •<a className={styles.SecLink} href="/allfiles/anes_preopinfo.pdf" alt="alt text" target="_blank" rel="noopener noreferrer"> Prep- Anesthesia Billing</a><br></br>
             •<a className={styles.SecLink} href="/allfiles/TSC PO instructions Eyelid 4.2024.pdf" alt="alt text" target="_blank" rel="noopener noreferrer"> PO Eyelid Sx</a><br></br>
-            •<a className={styles.SecLink} href="/allfiles/TSC PO instructions DC Brow  4.2024.pdf" alt="alt text" target="_blank" rel="noopener noreferrer"> PO Brow Sx </a><br></br>
+            •<a className={styles.SecLink} href="/allfiles/TSC PO instructions DC Brow  4.2024.docx" alt="alt text" target="_blank" rel="noopener noreferrer"> PO Brow Sx </a><br></br>
             •<a className={styles.SecLink} href="/allfiles/TSC PO instructions DCR 4.2024.docx" alt="alt text" target="_blank" rel="noopener noreferrer"> PO DCR Sx </a><br></br>
             •<a className={styles.SecLink} href="/allfiles/1WkPO.pdf" alt="alt text" target="_blank" rel="noopener noreferrer"> 1 Week Follow up</a><br></br>
 
