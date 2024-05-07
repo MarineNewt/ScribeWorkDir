@@ -31,6 +31,7 @@ export default function Home() {
             ➢ <a className={styles.SecLink} href="https://outlook.office.com/mail/" alt="alt text" target="_blank" rel="noopener noreferrer">Outlook Email </a><br></br>
             ➢ <a className={styles.SecLink} href="https://www.paycomonline.net/v4/ee/web.php/app/login" alt="alt text" target="_blank" rel="noopener noreferrer">Paycom Login </a><br></br>
             ➢ <a className={styles.SecLink} href="https://podisplus.com/security/login.aspx?ReturnUrl=%2fAdmin%2fDashboard.aspx" alt="alt text" target="_blank" rel="noopener noreferrer">Podis Login </a><br></br>
+            ➢ <a className={styles.SecLink} href="https://compeyecaregroup-my.sharepoint.com/:x:/g/personal/csiebken_eanw_net/EYhyeB0kkr5Numun974n6YIBSu_umL72Aqmb1ibOWemuig?e=7KWYA0" alt="alt text" target="_blank" rel="noopener noreferrer"> Tech/Scribe Schedule</a><br></br>
           </div>
           <div className={styles.div5}> 
             <h2 className={styles.SecHeader}>Info Resources</h2> 
