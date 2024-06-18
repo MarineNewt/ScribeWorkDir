@@ -39,7 +39,7 @@ export default function Home() {
             ➢ <a className={styles.SecLink} href="/allfiles/Plastics Tools.doc" alt="alt text" target="_blank" rel="noopener noreferrer">Oculoplastics Tools</a><br></br>
             ➢ <a className={styles.SecLink} href="/allfiles/TSC Surgeries.doc" alt="alt text" target="_blank" rel="noopener noreferrer">Surgery Info ★</a><br></br>
             ➢ <a className={styles.SecLink} href="/allfiles/Procedure Trays.rtf" alt="alt text" target="_blank" rel="noopener noreferrer">Procedure Trays </a><br></br>
-            ➢ <a className={styles.SecLink} href="/allfiles/TSC Common Surgeries.docx" alt="alt text" target="_blank" rel="noopener noreferrer">Common Surgery Codes </a><br></br>
+              {/*➢ <a className={styles.SecLink} href="/allfiles/TSC Common Surgeries.docx" alt="alt text" target="_blank" rel="noopener noreferrer">Common Surgery Codes </a><br></br>*/}
             ➢ <a className={styles.SecLink} href="/allfiles/How to do Biopsy Plastics.doc" alt="alt text" target="_blank" rel="noopener noreferrer">Biopsy Instructions</a><br></br>
             ➢ <a className={styles.SecLink} href="/allfiles/Blood Thinners.doc" alt="alt text" target="_blank" rel="noopener noreferrer">Blood Thinners</a><br></br>
           </div>
